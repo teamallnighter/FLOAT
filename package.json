@@ -1,6 +1,7 @@
 {
   "name": "cms",
   "version": "0.0.1",
+  "author": "Chris Connelly <me@chrisconnelly.dev> (https://chrisconnelly.dev)",
   "scripts": {
     "gulp": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
