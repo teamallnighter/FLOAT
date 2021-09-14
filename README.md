@@ -2,6 +2,6 @@
 
 ## Just another PHP based CMS
 
-### Featuring codyhouse elements
+### Featuring codyhouse componants
 
 
